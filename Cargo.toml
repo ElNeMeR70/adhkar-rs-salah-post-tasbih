@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-salah-post-tasbih"
+version = "1.0.0"
+edition = "2021"
+description = "Post-Fard Salah Tasbih (33x3 + Tamam Al-Mi'ah) State Counter"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_salah_post_tasbih"
+path = "main.rs"
